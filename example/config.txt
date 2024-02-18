@@ -1,0 +1,2 @@
+Prefix plugins/Heron/example/
+Plugin Heron inputfile sides.txt outputfile none
